@@ -33,6 +33,8 @@ the edge cannot be added
 
 ## Result
 Based on the graph provided in the .txt file, the output of the program, or resulting graph is the following
+![alt text](https://github.com/SGIANNINIGARCIA/Kruskal-s/blob/master/kruskal.png?raw=true)
+
 
 
 
